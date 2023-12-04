@@ -13,10 +13,11 @@ The detailed description is shown in this paper:
 This project is based on the R version 4.2.0
 
 The code information 
-* Crawling sample
-* Model (LL, SVM, RF, XGB)
-* Drought index calculation 
+* Sample data
+* Model: Machine learning (LL, SVM, RF, XGB); Crawling example; Drought index calculation
 
+## Contact
+krsmsuh@yonsei.ac.kr
 
 
 
