@@ -1,5 +1,4 @@
-# Rad-cGAN v1.0: Radar-based precipitation nowcasting model with conditional Generative Adversarial Networks for multiple dam domains
-
+# Drought Impact Prediction using four reference machine learning 
 
 
 ## Introduction
