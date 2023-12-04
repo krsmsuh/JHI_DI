@@ -1,5 +1,0 @@
-install.packages(c('stats','readxl','SPEI') )
-library('ststs','readxl','SPEI')
-
-## Data loads
-drought index <- 
