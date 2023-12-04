@@ -7,8 +7,8 @@ Here is the cGAN-based precipitation nowcasting model, named Rad-cGAN, was train
 
 The implementation codes of reference models (U-net,ConvLSTM, and pySTEPS(S-PROG)) were written using [Keras](https://keras.io/)  functional API is in the folder `model`.
 
-The source code and pre-trained Rad-cGAN model is available in Zenodo:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6650722.svg)](https://doi.org/10.5281/zenodo.6650722)
+The detailed description is shown in this paper:
+[![DOI](https://doi.org/10.2166/hydro.2023.064)](https://doi.org/10.2166/hydro.2023.064)
 
 
 ## Model architecture
