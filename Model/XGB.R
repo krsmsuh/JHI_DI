@@ -1,7 +1,3 @@
-## Load Packages ##
-install.packages(c('xgboost', 'dplyr', 'ROCR', 'tidytext','stringr'))
-library(randomForest); library(dplyr); library(ROCR); library(tidytext); library(stringr)
-
 ## Load data
 df <- data.frame(drought_impact, drought_index)
 
